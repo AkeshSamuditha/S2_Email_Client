@@ -25,8 +25,8 @@ public class Email implements Serializable {
 
     //Seding a mail
     public boolean SendEmail(){
-        final String from = "akeshuom@gmail.com";
-        final String password = "epnnvpqhqhmhkkyz";
+        final String from = "emailaddress";
+        final String password = "password";
         final String host = "smtp.gmail.com";
         final String port = "587";
         
